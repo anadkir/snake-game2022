@@ -1,0 +1,10 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.game-area{
+  border: #222222 4px solid;
+  background-color: #b3d4fc;
+}
